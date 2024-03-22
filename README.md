@@ -21,7 +21,7 @@ Aarch64
 2. CUDA加速YUV转换RGB渲染
 3. V4L2 框架使用相机
 
-![demo](README.assets/demo.jpg)
+![demo](/demo.jpg)
 
 #### 贡献者
 
