@@ -20,7 +20,7 @@ Typically is based on aarch64
 2.  Cuda convert yuv -> rgb
 3.  V4l2 control camera
 
-![demo](README.en.assets/demo.jpg)
+![demo](demo.jpg)
 
 #### Contribution
 
